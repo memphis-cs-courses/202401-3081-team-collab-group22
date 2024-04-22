@@ -3,5 +3,8 @@ class PagesController < ApplicationController
   end
 
   def aidanjohnson
+
+  end
+  def pmholt
   end
 end
