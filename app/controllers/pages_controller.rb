@@ -1,6 +1,6 @@
 class PagesController < ApplicationController
   def index
   end
-  def chase-hockenberry
+  def chasehockenberry
   end
 end
